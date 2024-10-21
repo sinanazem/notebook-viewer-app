@@ -1,5 +1,5 @@
 # Jupyter Notebook HTML Converter and Viewer
-
+<img src="https://www.adobe.com/uk/acrobat/resources/document-files/text-files/media_171e0b0e52c88c407fa45279fe385fd1b88dd4412.png?width=750&format=png&optimize=medium">
 This project provides a simple solution for converting Jupyter Notebooks (`.ipynb`) to HTML format and viewing them through a Streamlit application. It automates the conversion of notebooks located in a specified folder into HTML files, maintaining the original folder structure, and offers a Streamlit-based user interface to view them.
 
 ## Prerequisites
